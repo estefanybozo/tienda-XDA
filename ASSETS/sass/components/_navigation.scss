@@ -1,0 +1,23 @@
+.navbar a{
+    font-family: $tipo-2;
+    font-weight: $bold;
+}
+
+.logo{
+    
+    font-family: $tipo-1 !important;
+    background-color: $smoky-black;
+    width: 4em;
+    height: 4em;
+    margin: -.6em;
+    color: white;
+    display: flex;
+    justify-content: center;
+    /* align-content: center; */
+    flex-direction: column;
+    text-align: center;
+}
+
+p{
+    margin-top: 1em !important;
+}
